@@ -1,0 +1,38 @@
+.profile {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.profile h2 {
+  font-size: 24px;
+  color: #fff;
+}
+
+.profile p {
+  font-size: 18px;
+  color: #fff;
+}
+
+.dropzone {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.dropzone:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}

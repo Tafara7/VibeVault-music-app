@@ -1,0 +1,14 @@
+.profile-preview {
+    background-color: #c0c0c0;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .profile-preview h2 {
+    font-size: 24px;
+  }
+  
+  .profile-preview p {
+    font-size: 18px;
+  }

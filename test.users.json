@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "6726101e4ef2829c7045961a"
+  },
+  "userId": 1,
+  "username": "Tafara7",
+  "email": "tafara@gmail.com",
+  "password": "password123",
+  "bio": "University student who loves good food and music",
+  "profilePicture": "https://via.placeholder.com/150?text=T",
+  "friends": [],
+  "followers": [
+    2,
+    3,
+    4
+  ],
+  "following": [
+    2,
+    3,
+    4
+  ],
+  "playlists": [
+    "playlist1",
+    "playlist2"
+  ],
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6726101e4ef2829c7045961b"
+  },
+  "userId": 2,
+  "username": "TestUser",
+  "email": "test@test.com",
+  "password": "test1234",
+  "bio": "Pop singer and songwriter.",
+  "profilePicture": "https://via.placeholder.com/150?text=T",
+  "friends": [
+    1,
+    4
+  ],
+  "followers": [
+    1,
+    3,
+    4
+  ],
+  "following": [
+    1,
+    3,
+    4
+  ],
+  "playlists": [
+    "playlist3",
+    "playlist4"
+  ],
+  "online": false
+},
+{
+  "_id": {
+    "$oid": "6726101e4ef2829c7045961c"
+  },
+  "userId": 3,
+  "username": "beyonce",
+  "email": "beyonce@example.com",
+  "password": "password123",
+  "bio": "Singer, songwriter, and actress.",
+  "profilePicture": "https://via.placeholder.com/150?text=B",
+  "friends": [
+    1,
+    5
+  ],
+  "followers": [
+    1,
+    2,
+    5
+  ],
+  "following": [
+    1,
+    2,
+    5
+  ],
+  "playlists": [
+    "Rock Anthems",
+    "playlist6"
+  ],
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6726101e4ef2829c7045961d"
+  },
+  "userId": 4,
+  "username": "drake",
+  "email": "drake@example.com",
+  "password": "password123",
+  "bio": "Rapper, singer, and songwriter.",
+  "profilePicture": "https://via.placeholder.com/150?text=D",
+  "friends": [
+    2,
+    5
+  ],
+  "followers": [
+    1,
+    2,
+    5
+  ],
+  "following": [
+    1,
+    2,
+    5
+  ],
+  "playlists": [
+    "playlist7",
+    "playlist8"
+  ],
+  "online": false
+},
+{
+  "_id": {
+    "$oid": "6726101e4ef2829c7045961e"
+  },
+  "userId": 5,
+  "username": "rihanna",
+  "email": "rihanna@example.com",
+  "password": "password123",
+  "bio": "Singer, actress, and businesswoman.",
+  "profilePicture": "https://via.placeholder.com/150?text=R",
+  "friends": [
+    3,
+    4
+  ],
+  "followers": [
+    3,
+    4
+  ],
+  "following": [
+    3,
+    4
+  ],
+  "playlists": [
+    "playlist9",
+    "playlist10"
+  ],
+  "online": true
+}]

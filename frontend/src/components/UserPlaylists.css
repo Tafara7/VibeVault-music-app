@@ -1,0 +1,17 @@
+.user-playlists {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.user-playlists h2 {
+  font-size: 24px;
+  color: #000000;
+}
+
+.user-playlists p {
+  font-size: 18px;
+  color: #000000;
+}

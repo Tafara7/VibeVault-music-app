@@ -1,0 +1,10 @@
+.user-songs {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .user-songs h2 {
+    font-size: 24px;
+  }

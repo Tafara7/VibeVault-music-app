@@ -1,0 +1,39 @@
+.song-feed {
+  background-color: rgba(169, 171, 241, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.song-feed h2 {
+  font-size: 24px;
+  margin-top: 15px;
+  color: #000000;
+}
+
+.song-item {
+  background-color: rgba(241, 169, 216, 0.8);
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.song-item p {
+  font-size: 16px;
+  margin: 0;
+}
+
+.song-item a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1em;
+}
+
+.song-item a:hover {
+  text-decoration: underline;
+}

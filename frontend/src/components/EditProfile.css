@@ -1,0 +1,48 @@
+.edit-profile {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.edit-profile h2 {
+  font-size: 24px;
+  color: #fff;
+}
+
+.edit-profile form div {
+  margin-bottom: 10px;
+}
+
+.edit-profile label {
+  display: block;
+  margin-bottom: 5px;
+  color: #fff;
+}
+
+.edit-profile input,
+.edit-profile textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.edit-profile button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.edit-profile button:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}

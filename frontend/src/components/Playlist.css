@@ -1,0 +1,38 @@
+.playlist {
+  background-color: rgba(84, 87, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.playlist h2 {
+  font-size: 24px;
+}
+
+.playlist p {
+  font-size: 18px;
+}
+
+.playlist .cover-image {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.playlist .hashtags {
+  margin-top: 10px;
+}
+
+.playlist .hashtag {
+  display: inline-block;
+  background-color: #e0e0e0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.playlist .songs {
+  margin-top: 20px;
+}

@@ -1,0 +1,23 @@
+.song {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.song.deleted {
+  background-color: #ffcccc;
+}
+
+.song h3 {
+  font-size: 24px;
+}
+
+.song p {
+  font-size: 18px;
+}
+
+.deleted-message {
+  color: red;
+  font-size: 16px;
+}

@@ -1,0 +1,43 @@
+.add-comment {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .add-comment h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #000000;
+  }
+  
+  .add-comment form div {
+    margin-bottom: 10px;
+  }
+  
+  .add-comment label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-comment input,
+  .add-comment textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .add-comment button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }

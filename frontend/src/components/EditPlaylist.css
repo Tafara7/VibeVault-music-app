@@ -1,0 +1,37 @@
+.edit-playlist {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .edit-playlist h2 {
+    font-size: 24px;
+    color: #000000;
+  }
+  
+  .edit-playlist form div {
+    margin-bottom: 10px;
+  }
+  
+  .edit-playlist label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .edit-playlist input,
+  .edit-playlist textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .edit-playlist button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }

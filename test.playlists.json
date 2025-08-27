@@ -1,0 +1,257 @@
+[{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c1"
+  },
+  "playlistid": 1,
+  "hashtags": [
+    "#chill",
+    "#relax"
+  ],
+  "name": "Party Songs",
+  "description": "A playlist for relaxing and unwinding.",
+  "songs": [
+    {
+      "songid": 1,
+      "title": "Massive",
+      "artist": "Drake",
+      "album": "Honestly, Nevermind",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn?si=4573afa14eb3470a",
+      "createdAt": "2021-06-22T10:00:00.000Z",
+      "deleted": false
+    },
+    {
+      "songid": 2,
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP?si=a7f8fa2507094aae",
+      "createdAt": "2021-06-22T10:00:00.000Z",
+      "deleted": false
+    }
+  ],
+  "comments": [
+    {
+      "commentid": 1,
+      "text": "Great playlist!"
+    },
+    {
+      "commentid": 2,
+      "text": "Love this song!"
+    }
+  ],
+  "createdBy": "User1",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c2"
+  },
+  "playlistid": 2,
+  "hashtags": [
+    "#workout",
+    "#energy"
+  ],
+  "name": "Workout Hits",
+  "description": "High-energy songs to keep you motivated.",
+  "songs": [
+    {
+      "songid": 3,
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g?si=d63fabb240b6491e",
+      "createdAt": "2021-06-22T10:00:00.000Z",
+      "deleted": false
+    },
+    {
+      "songid": 4,
+      "title": "Peaches",
+      "artist": "Justin Bieber",
+      "album": "Justice",
+      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI?si=9c8d5356836f42cd",
+      "createdAt": "2021-06-22T10:00:00.000Z",
+      "deleted": false
+    }
+  ],
+  "comments": [],
+  "createdBy": "User2",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c3"
+  },
+  "playlistid": 3,
+  "hashtags": [
+    "#favorites"
+  ],
+  "name": "My Playlist",
+  "description": "A collection of my favorite songs",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109ca",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c4"
+  },
+  "playlistid": 4,
+  "hashtags": [
+    "#roadtrip"
+  ],
+  "name": "Road Trip",
+  "description": "Songs to keep you company on the road.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109ca",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c5"
+  },
+  "playlistid": 5,
+  "hashtags": [
+    "#party"
+  ],
+  "name": "Party Mix",
+  "description": "Get the party started with these hits.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109cc",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c6"
+  },
+  "playlistid": 6,
+  "hashtags": [
+    "#study"
+  ],
+  "name": "Study Session",
+  "description": "Focus and get things done with these tracks.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109ca",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c7"
+  },
+  "playlistid": 7,
+  "hashtags": [
+    "#throwback"
+  ],
+  "name": "Throwback",
+  "description": "Hits from the past that never get old.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109cc",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c8"
+  },
+  "playlistid": 8,
+  "hashtags": [
+    "#indie"
+  ],
+  "name": "Indie Chill",
+  "description": "Relax with these indie tunes.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "Tafara Hwata",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306c9"
+  },
+  "playlistid": 9,
+  "hashtags": [
+    "#hiphop"
+  ],
+  "name": "Hip Hop Hits",
+  "description": "The latest and greatest in hip hop.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109cc",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306ca"
+  },
+  "playlistid": 10,
+  "hashtags": [
+    "#acoustic"
+  ],
+  "name": "Acoustic Vibes",
+  "description": "Stripped-down versions of your favorite songs.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109ca",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306cb"
+  },
+  "playlistid": 11,
+  "hashtags": [
+    "#jazz"
+  ],
+  "name": "Jazz Classics",
+  "description": "Timeless jazz standards.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109cc",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306cc"
+  },
+  "playlistid": 12,
+  "hashtags": [
+    "#rock"
+  ],
+  "name": "Rock Anthems",
+  "description": "Rock out with these anthems.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109ca",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6726a6df4ef2829c70b306cd"
+  },
+  "playlistid": 13,
+  "hashtags": [
+    "#pop"
+  ],
+  "name": "Pop Hits",
+  "description": "The biggest pop hits of today.",
+  "songs": [],
+  "comments": [],
+  "createdBy": "60d0fe4f5311236168a109cc",
+  "createdAt": "2021-06-22T10:00:00.000Z",
+  "updatedAt": "2021-06-22T10:00:00.000Z"
+}]

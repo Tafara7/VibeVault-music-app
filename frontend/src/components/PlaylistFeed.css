@@ -1,0 +1,40 @@
+.playlist-feed {
+  background-color: rgba(169, 171, 241, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.playlist-feed h2 {
+  font-size: 24px;
+  margin-top: 15px;
+  color: #000000;
+}
+
+.playlist-activity {
+  background-color: rgba(241, 169, 216, 0.28);
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.playlist-activity p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.playlist-activity strong {
+  color: #007bff;
+}
+
+.playlist-activity a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1em;
+}
+
+.playlist-activity a:hover {
+  text-decoration: underline;
+}

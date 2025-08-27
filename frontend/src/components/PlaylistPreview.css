@@ -1,0 +1,14 @@
+.playlist-preview {
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .playlist-preview h2 {
+    font-size: 24px;
+  }
+  
+  .playlist-preview p {
+    font-size: 18px;
+  }

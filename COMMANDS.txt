@@ -1,0 +1,4 @@
+COMMANDS:
+docker build -t project-music-app .
+
+docker run -p 3000:3000 project-music-app .

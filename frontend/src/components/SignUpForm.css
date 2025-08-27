@@ -1,0 +1,35 @@
+.sign-up-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .sign-up-form h2 {
+    font-size: 24px;
+  }
+  
+  .sign-up-form form div {
+    margin-bottom: 10px;
+  }
+  
+  .sign-up-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .sign-up-form input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .sign-up-form button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+  }
